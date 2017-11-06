@@ -6,7 +6,7 @@
 
 Copy the folder to www directory of WAMP folder. Afetr this, the following steps can be taken in order to use the source code correctly:  
 
-1)Go to localhost/phpmyadmin
+1) Go to localhost/phpmyadmin
 
 2) Create a new Database named "ecommerce" 
 
